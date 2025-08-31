@@ -97,25 +97,25 @@ Some examples of insights generated:
 Below are sample outputs:
 
 * **Task 1: Sales Overview**
-  ![Task1](output/Task1.png)
+  ![Task1](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task1.png?raw=true)
 
 * **Task 4: Revenue Trends**
-  ![Task4](output/Task4.png)
+  ![Task4](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task4.png?raw=true)
 
 * **Task 5: Top Performing Products**
-  ![Task5](output/Task5.png)
+  ![Task5](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task5.png?raw=true)
 
 * **Task 7: Profit Margins**
-  ![Task7](output/Task7.png)
+  ![Task7](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task7.png?raw=true)
 
 * **Task 12: Seasonal Sales Insights**
-  ![Task12](output/Task12.png)
+  ![Task12](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task12.png?raw=true)
 
 * **Task 14: Discounts Impact Analysis**
-  ![Task14](output/Task14.png)
+  ![Task14](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task14.png?raw=true)
 
 * **Task 17: Final Dashboard Snapshot**
-  ![Task17](output/Task17.png)
+  ![Task17](https://github.com/aayushBhavesh/Sales-Analysis/blob/main/Sales_Dashboard/output/Task17.png?raw=true)
 
 ---
 
